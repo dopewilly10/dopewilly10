@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dopewilly10
-- 👀 I’m interested in collaborative python programming projects
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in collaborative Web development and python programming projects
+- 🌱 I’m a frontend developer who is also currently learning Python
+- 💞️ I’m looking to collaborate on Python and Frontend Development
 - 📫 How to reach me ... wa.me/2349080237740, gamingwithdopewilly@gmail.com
 
 <!---
